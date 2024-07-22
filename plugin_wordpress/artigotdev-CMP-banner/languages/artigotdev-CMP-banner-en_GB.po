@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: artigotdev-CMP-banner 1.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Cookie consent button"
+msgstr "Cookie consent button"
+
+msgid ""
+"Este sitio web utiliza <strong>cookies</strong> para mejorar tu experiencia."
+"<br>Al hacer clic en \"Aceptar todas\", aceptas nuestra <a href=\"/cookies"
+"\">política de cookies</a>.<br>También puedes seleccionar qué cookies deseas "
+"permitir mediante el botón \"Configurar\"."
+msgstr ""
+"This website uses <strong>cookies</strong> to improve your experience.<br>By "
+"clicking \"Accept all\", you agree to our <a href=\"/cookies\">cookie "
+"policy</a>.<br>You can also choose which cookies you want to allow by "
+"clicking the  \"Configure button\"."
+
+msgid "Configurar"
+msgstr "Configure"
+
+msgid "Rechazar todas"
+msgstr "Reject all"
+
+msgid "Aceptar todas"
+msgstr "Accept all"
+
+msgid ""
+"Personalizar la publicidad que ves en este y otros sitios web en función de "
+"tus intereses y actividad en línea."
+msgstr ""
+"Customise the ads you see on this and other websites based on your interests "
+"and online activity."
+
+msgid ""
+"Recopilar datos sobre cómo usas este sitio web para mejorar su rendimiento y "
+"experiencia de usuario."
+msgstr ""
+"Collect data on how you use this website to improve its performance and user "
+"experience."
+
+msgid ""
+"Medir la efectividad de las campañas de marketing y la atribución de "
+"conversiones."
+msgstr ""
+"Measure the effectiveness of marketing campaigns and conversion attribution."
+
+msgid ""
+"Personalizar tu experiencia en este sitio web en función de tus preferencias "
+"y comportamiento."
+msgstr ""
+"Customise your experience on this website based on your preferences and "
+"behaviour."
+
+msgid "Guardar Preferencias"
+msgstr "Save Preferences"
+
+msgid "Cancelar"
+msgstr "Cancel"
+
+msgid "Configuración del Banner de Cookies"
+msgstr "Cookie Banner Settings"
+
+msgid "Banner de Cookies"
+msgstr "Cookie Banner"
+
+msgid "Color de Fondo"
+msgstr "Background Colour"
+
+msgid "Color de Texto"
+msgstr "Text Colour"
+
+msgid "Etiqueta de Google"
+msgstr "Google Tag"
